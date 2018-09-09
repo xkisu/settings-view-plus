@@ -47,6 +47,14 @@
       }
     }
   },
+  "providedServices": {
+    "settings-view-plus": {
+      "description": "Enableds adding setting panels to the settings tab",
+      "versions": {
+        "1.0.0": "provideSettingsView"
+      }
+    }
+  },
   "deserializers": {
     "SettingsView": "createSettingsView"
   },
