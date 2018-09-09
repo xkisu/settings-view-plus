@@ -1,7 +1,9 @@
-# Settings View package
+# Settings View Plus package
 [![macOS Build Status](https://travis-ci.org/atom/settings-view.svg?branch=master)](https://travis-ci.org/atom/settings-view) [![Windows Build Status](https://ci.appveyor.com/api/projects/status/hatgxg6k2g3grafq/branch/master?svg=true)](https://ci.appveyor.com/project/Atom/settings-view/branch/master) [![Dependency Status](https://david-dm.org/atom/settings-view.svg)](https://david-dm.org/atom/settings-view)
 
-Edit core configuration settings, install and configure packages, and change themes from within Atom.
+An extended version of the Atom Settings View package while allows you to dit core configuration settings, install and configure packages, and change themes from within Atom. 
+
+This extended fork adds features like allowing packages to add their own settings pages to the settings tab.
 
 ![Settings View](https://cloud.githubusercontent.com/assets/118951/16886698/b0ca5fae-4a8a-11e6-8afc-2c03fda4618c.PNG)
 
