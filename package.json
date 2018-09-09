@@ -1,5 +1,5 @@
 {
-  "name": "settings-view",
+  "name": "settings-view-plus",
   "version": "0.256.1",
   "main": "./lib/main",
   "description": "Edit config settings, install packages, and change themes",
